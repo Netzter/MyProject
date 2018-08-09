@@ -1,0 +1,841 @@
+
+
+2018.08.01 08:23:31  99,100,100.5,500.3
+2018.08.01 08:23:32  99,100,100.5,500.3
+2018.08.01 08:23:32  99,100,100.5,500.3
+2018.08.01 08:23:33  99,100,100.5,500.3
+2018.08.01 08:23:33  99,100,100.5,500.3
+2018.08.01 08:24:41  55,200,389.5,460.3
+2018.08.01 08:24:43  55,200,389.5,460.3
+2018.08.01 08:27:49  55,200,389.5,460.3
+2018.08.01 08:27:49  55,200,389.5,460.3
+
+2018.08.06 11:21:33       MAZDEN S.R.L.,           Autoclave por Vapor,Equipo N°:   2         N° de Serie:  346,LAB. BACK S.A.,Fecha: 06/08/2018         Hora: 11:25:16,Operador: admin,Receta Numero:  1,Receta Nombre: TEXTIL 121,PULSOS VACIO-VAPOR,Cantidad de Pulsos:  3,Nivel de Vacio: -350.0 mbar,Nivel de Vapor:  200.0 mbar,ESTERILIZA POR TIEMPO,Tiempo de Esterilizacion:  20.0 min,Temperatura de Esterilizacion: 121.0 °C,Sensor de Referencia: Descarga,Temperatura para F0: 121.0 °C,SECADO-AIREACION CON VACIO,Cantidad de Pulsos:  1,Nivel: -400.0 mbar,Tiempo:  10.0 min,Descarga Rapida: NO,Carga: Puerta 1       ,Descarga: Puerta 1
+2018.08.06 11:22:48       MAZDEN S.R.L.,           Autoclave por Vapor,Equipo N°:   2         N° de Serie:  346,LAB. BACK S.A.,Fecha: 06/08/2018         Hora: 11:26:36
+2018.08.06 11:22:49  Proceso N°:      1,Lote: ABC,Producto: TEXTIL,Carga: Media,    Ejecucion de Proceso Automatico
+2018.08.06 11:22:51  Receta Numero:  1,Receta Nombre: TEXTIL 121,PULSOS VACIO-VAPOR,Cantidad de Pulsos:  3,Nivel de Vacio: -350.0 mbar,Nivel de Vapor:  200.0 mbar,ESTERILIZA POR TIEMPO,Tiempo de Esterilizacion:  20.0 min,Temperatura de Esterilizacion: 121.0 °C,Sensor de Referencia: Descarga,Temperatura para F0: 121.0 °C,SECADO-AIREACION CON VACIO,Cantidad de Pulsos:  1,Nivel: -400.0 mbar,Tiempo:  10.0 min,Descarga Rapida: NO,Carga: Puerta 1       ,Descarga: Puerta 1
+2018.08.06 11:22:52  PROCESO INICIADO,Usuario: admin,Hora: 11:26:40
+2018.08.06 11:23:53  Hora de Finalizacion: 11:27:41,Presion de Camara:  mbar,PULSO DE VAPOR N°:  1
+2018.08.06 11:25:10  Hora de Finalizacion: 11:28:58,Presion de Camara:  794.2 mbar,BARRIDO
+2018.08.06 11:25:30  Hora de Finalizacion: 11:29:18,PULSO DE VACIO N°:  2
+2018.08.06 11:25:45  Hora de Finalizacion: 11:29:33,Presion de Camara: -970.7 mbar,PULSO DE VAPOR N°:  2
+2018.08.06 11:26:18  Hora de Finalizacion: 11:30:06,Presion de Camara:  794.2 mbar,BARRIDO
+2018.08.06 11:26:37  Hora de Finalizacion: 11:30:26,PULSO DE VACIO N°:  3
+2018.08.06 11:26:46  Hora de Finalizacion: 11:30:34,Presion de Camara: -970.7 mbar,PULSO DE VAPOR N°:  3
+2018.08.06 11:26:53  Hora de Finalizacion: 11:30:41,Presion de Camara:  794.2 mbar,BARRIDO
+2018.08.06 11:27:13  Hora de Finalizacion: 11:31:01,PULSO DE VACIO PRE ESTERILIZACION
+2018.08.06 11:31:16  MAZDEN,PID
+2018.08.06 11:32:36  MAZDEN,PID
+2018.08.06 11:32:37  MAZDEN,PID
+2018.08.06 11:32:37  MAZDEN,PID
+2018.08.06 11:33:29  Hora de Finalizacion: 11:37:17,Presion de Camara: -970.7 mbar,ESTERILIZACION
+2018.08.06 11:34:40  PROCESO PAUSADO POR FALLA,Hora: 11:38:28,,11:38:28, 54.1,,124.8,,1154.4,
+2018.08.06 11:39:32       MAZDEN S.R.L.,           Autoclave por Vapor,Equipo N°:   2         N° de Serie:  346,LAB. BACK S.A.,Fecha: 06/08/2018         Hora: 11:43:20
+2018.08.06 11:39:33  Proceso N°:      1,Lote: ABC,Producto: TEXTIL,Carga: Media,    Ejecucion de Proceso Automatico
+2018.08.06 11:42:48  PROCESO CANCELADO,Usuario: admin,Hora: 11:46:37
+2018.08.06 11:43:04       MAZDEN S.R.L.,           Autoclave por Vapor,Equipo N°:   2         N° de Serie:  346,LAB. BACK S.A.,Fecha: 06/08/2018         Hora: 11:46:52
+2018.08.06 11:43:04  Proceso N°:      1,Lote: ABC,Producto: TEXTIL,Carga: Media,    Ejecucion de Proceso Automatico
+2018.08.06 11:43:07  Receta Numero:  1,Receta Nombre: TEXTIL 121,PULSOS VACIO-VAPOR,Cantidad de Pulsos:  1,Nivel de Vacio: -350.0 mbar,Nivel de Vapor:  200.0 mbar,ESTERILIZA POR TIEMPO,Tiempo de Esterilizacion:   3.5 min,Temperatura de Esterilizacion: 122.0 °C,Sensor de Referencia: Descarga,Temperatura para F0: 122.0 °C,SECADO-AIREACION CON VACIO,Cantidad de Pulsos:  1,Nivel: -400.0 mbar,Tiempo:  10.0 min,Descarga Rapida: NO,Carga: Puerta 1       ,Descarga: Puerta 1
+2018.08.06 11:43:08  PROCESO INICIADO,Usuario: admin,Hora: 11:46:56
+2018.08.06 11:43:43  Hora de Finalizacion: 11:47:31,Presion de Camara: -970.7 mbar,PULSO DE VAPOR N°:  1
+2018.08.06 11:43:51  Hora de Finalizacion: 11:47:39,Presion de Camara:  794.2 mbar,BARRIDO
+2018.08.06 11:44:11  Hora de Finalizacion: 11:47:59,PULSO DE VACIO PRE ESTERILIZACION
+2018.08.06 11:44:16  Hora de Finalizacion: 11:48:04,Presion de Camara: -970.7 mbar,ESTERILIZACION
+2018.08.06 11:44:33  1,Hora       T.Cam.    T.Desc.    P.Cam.  
+2018.08.06 11:50:57       MAZDEN S.R.L.,           Autoclave por Vapor,Equipo N°:   2         N° de Serie:  346,LAB. BACK S.A.,Fecha: 06/08/2018         Hora: 11:54:45
+2018.08.06 11:50:58  Proceso N°:      1,Lote: ABC,Producto: TEXTIL,Carga: Media,    Ejecucion de Proceso Automatico
+2018.08.06 11:52:50       MAZDEN S.R.L.,        
+
+2018.08.08 08:19:27  MAZDEN S.R.L
+2018.08.08 08:19:27  Autoclave por Vapor
+2018.08.08 08:19:27  Equipo Nº:    1     Nº de Serie:    293
+2018.08.08 08:21:45  MAZDEN S.R.L
+2018.08.08 08:21:45  Autoclave por Vapor
+2018.08.08 08:21:45  Equipo Nº:    1     Nº de Serie:    293
+2018.08.08 08:21:45  MAZDEN S.R.L
+2018.08.08 08:21:45  Autoclave por Vapor
+2018.08.08 08:21:45  Equipo Nº:    1     Nº de Serie:    293
+2018.08.08 08:23:46  MAZDEN S.R.L
+2018.08.08 08:23:46  Autoclave por Vapor
+2018.08.08 08:23:46  Equipo Nº:    1     Nº de Serie:    293
+2018.08.08 08:23:46  Sin Asignar
+2018.08.08 08:23:46  Fecha:02/01/2015
+2018.08.08 08:23:46  Proceso Nº:    4
+
+2018.08.08 08:44:18  mi perro dinamita
+2018.08.08 08:44:18  no gruñe no
+2018.08.08 08:44:18   no ladra no
+2018.08.08 08:44:34  mi perro dinamita
+2018.08.08 08:44:34  no gruñe no
+2018.08.08 08:44:34   no ladra no
+2018.08.08 08:44:35  mi perro dinamita
+2018.08.08 08:44:35  no gruñe no
+2018.08.08 08:44:35   no ladra no
+
+2018.08.08 09:21:28  mi perro dinamita
+2018.08.08 09:21:28  no gruñe no
+2018.08.08 09:21:28   no ladra no
+2018.08.08 09:26:58  2,1,mi perro dinamita,no gruñe no, no ladra no
+2018.08.08 09:27:26  200
+2018.08.08 09:27:26  1
+2018.08.08 09:27:26  mi perro dinamita
+2018.08.08 09:27:26  no gruñe no
+2018.08.08 09:27:26   no ladra no
+
+2018.08.08 09:29:16  20
+2018.08.08 09:29:16  1
+2018.08.08 09:29:16  mi perro dinamita
+2018.08.08 09:29:16  no gruñe no
+2018.08.08 09:29:16   no ladra no
+2018.08.08 09:29:30  2,1,mi perro dinamita,no gruñe no, no ladra no
+2018.08.08 09:29:42  20
+2018.08.08 09:29:42  1
+2018.08.08 09:29:42  mi perro dinamita
+2018.08.08 09:29:42  no gruñe no
+2018.08.08 09:29:42   no ladra no
+
+2018.08.08 09:42:17  2,1,mi perro dinamita,no gruñe no, no ladra no
+2018.08.08 09:42:20  2,1,mi perro dinamita,no gruñe no, no ladra no
+2018.08.08 10:04:51       MAZDEN S.R.L.
+2018.08.08 10:04:51             Autoclave por Vapor
+2018.08.08 10:04:51  Equipo N°:   2         N° de Serie:  346
+2018.08.08 10:04:51  LAB. BACK S.A.
+2018.08.08 10:04:51  Fecha: 08/08/2018         Hora: 10:08:39
+2018.08.08 10:04:55  Proceso N°:      3
+2018.08.08 10:04:55  Lote: lote
+2018.08.08 10:04:55  Producto: textil
+2018.08.08 10:04:55  Carga: Media
+2018.08.08 10:04:55      Ejecucion de Proceso Automatico
+2018.08.08 10:04:55  Receta Numero:  1
+2018.08.08 10:04:55  Receta Nombre: TEXTIL 121
+2018.08.08 10:04:55  PULSOS VACIO-VAPOR
+2018.08.08 10:04:55  Cantidad de Pulsos:  1
+2018.08.08 10:04:55  Nivel de Vacio: -300.0 mbar
+2018.08.08 10:04:55  Nivel de Vapor:  300.0 mbar
+2018.08.08 10:04:55  ESTERILIZA POR TIEMPO
+2018.08.08 10:04:55  Tiempo de Esterilizacion:   3.5 min
+2018.08.08 10:04:55  Temperatura de Esterilizacion: 122.0 °C
+2018.08.08 10:04:55  Sensor de Referencia: Descarga
+2018.08.08 10:04:55  Temperatura para F0: 122.0 °C
+2018.08.08 10:04:55  SECADO-AIREACION CON VACIO
+2018.08.08 10:04:55  Cantidad de Pulsos:  1
+2018.08.08 10:04:55  Nivel: -600.0 mbar
+2018.08.08 10:04:55  Tiempo:   1.0 min
+2018.08.08 10:04:55  Descarga Rapida: NO
+2018.08.08 10:04:55  Carga: Puerta 1       
+2018.08.08 10:04:55  Descarga: Puerta 1
+2018.08.08 10:04:55  PROCESO INICIADO
+2018.08.08 10:04:55  Usuario: MARCHA
+2018.08.08 10:04:55  Hora: 10:08:43
+2018.08.08 10:04:55  PULSO DE VACIO N°:  1
+2018.08.08 10:05:19  Hora de Finalizacion: 10:09:07
+2018.08.08 10:05:19  Presion de Camara: -970.7 mbar
+2018.08.08 10:05:19  PULSO DE VAPOR N°:  1
+2018.08.08 10:05:28  Hora de Finalizacion: 10:09:16
+2018.08.08 10:05:28  Presion de Camara:  794.2 mbar
+2018.08.08 10:05:28  BARRIDO
+2018.08.08 10:05:48  Hora de Finalizacion: 10:09:36
+2018.08.08 10:05:48  PULSO DE VACIO PRE ESTERILIZACION
+2018.08.08 10:06:04  Hora de Finalizacion: 10:09:52
+2018.08.08 10:06:04  Presion de Camara: -970.7 mbar
+2018.08.08 10:06:04  ESTERILIZACION
+2018.08.08 10:06:17  1
+2018.08.08 10:06:17  Hora       T.Cam.    T.Desc.    P.Cam.  
+2018.08.08 10:06:18  2,10:10:06,122.0,122.3,1154.4
+2018.08.08 10:06:48  2,10:10:36,122.0,122.3,1154.4
+2018.08.08 10:07:18  2,10:11:06,122.0,122.3,1154.4
+2018.08.08 10:07:48  2,10:11:36,122.0,122.3,1154.4
+2018.08.08 10:08:18  2,10:12:07,122.0,122.3,1154.4
+2018.08.08 10:08:49  2,10:12:37,122.0,122.3,1154.4
+2018.08.08 10:09:19  2,10:13:07,122.0,122.3,1154.4
+2018.08.08 10:09:47  RESULTADO DEL CALCULO DE F0:   3.5 min
+2018.08.08 10:09:47  Hora de Finalizacion: 10:13:36
+2018.08.08 10:09:47  SECADO N°:     1
+2018.08.08 10:11:20  Hora de Finalizacion: 10:15:08
+2018.08.08 10:11:20  Presion de Camara: -970.7 mbar
+2018.08.08 10:11:20  AIREACION N°:  1
+2018.08.08 10:12:05  Hora de Finalizacion: 10:15:53
+2018.08.08 10:12:05  DESPRESURIZACION
+2018.08.08 10:14:07  Hora de Finalizacion: 10:17:55
+2018.08.08 10:14:07  FIN DE CICLO
+2018.08.08 10:14:08  Hora: 10:17:56
+2018.08.08 10:14:08  Tpo Total Proc. [hh:mm:ss]:      0: 9:16
+2018.08.08 10:14:08  TEMPERATURA DE CAMARA
+2018.08.08 10:14:08  Promedio:                       122.0 °C
+2018.08.08 10:14:08  Maximo:                         122.0 °C
+2018.08.08 10:14:08  Minimo:                         122.0 °C
+2018.08.08 10:14:08  TEMPERATURA DE DESCARGA
+2018.08.08 10:14:08  Promedio:                       122.3 °C
+2018.08.08 10:14:08  Maximo:                         122.3 °C
+2018.08.08 10:14:08  Minimo:                         122.3 °C
+2018.08.08 10:36:08       MAZDEN S.R.L.
+2018.08.08 10:36:08             Autoclave por Vapor
+2018.08.08 10:36:08  Equipo N°:   2         N° de Serie:  346
+2018.08.08 10:36:08  LAB. BACK S.A.
+2018.08.08 10:36:08  Fecha: 08/08/2018         Hora: 10:39:56
+2018.08.08 10:36:08  Operador: MARCHA
+2018.08.08 10:36:13       ESTADISTICAS DE FUNCIONAMIENTO
+2018.08.08 10:36:13   ALARMAS:
+2018.08.08 10:36:13  Parada de Emergencia:                  1
+2018.08.08 10:36:13  Falla en Impresora:                    0
+2018.08.08 10:36:13  No repone Agua:                        0
+2018.08.08 10:36:13  Pres. Cam. imp. abrir Ptas:            0
+2018.08.08 10:36:13  Alta Temp. Descarga:                   1
+2018.08.08 10:36:13  Pres. Max. Gen/Pul Vapor:              0
+2018.08.08 10:36:13  Pres. Max. Camara:                     0
+2018.08.08 10:36:13  Tiempo Max. Calentamiento:             0
+2018.08.08 10:36:13  Tiempo Max. Vacio:                     0
+2018.08.08 10:36:13  Tiempo Max. Vapor:                     0
+2018.08.08 10:36:13  Perfil Termico Vencido:                2
+2018.08.08 10:36:13  Falla GM Bomba Vacio:                  0
+2018.08.08 10:36:13  Falla GM Repone Agua:                  0
+2018.08.08 10:36:13  Falla Sensor Temp. Camara:             0
+2018.08.08 10:36:13  Falla Sensor Temp. Desc.:              0
+2018.08.08 10:36:13  Falla Sensor Pres. Gen/Pul:            0
+2018.08.08 10:36:13  Falla Sensor Pres. Camara:             0
+2018.08.08 10:36:13  Baja Temp. Descarga                    0
+2018.08.08 10:36:13  Baja Pres. Gen/Pul p/ Ciclo:           0
+2018.08.08 10:36:13  Rel. Pres-Temp fuera rango:            1
+2018.08.08 10:36:13  Falla Contactor Resist.:               0
+2018.08.08 10:36:13  Alta Temp. Camara:                     0
+2018.08.08 10:36:13  Bajo Nivel agua en Gen.:               2
+2018.08.08 10:36:13  Falla Presostato Aire:                 0
+2018.08.08 10:36:13  Falla Presostato Gen/Pul:              1
+2018.08.08 10:36:15   ACCIONAMIENTOS:
+2018.08.08 10:36:15  Ev. Vapor:                            17
+2018.08.08 10:36:15  Ev. Vacio:                            33
+2018.08.08 10:36:15  Bomba Vacio:                          26
+2018.08.08 10:36:15  Despres. Pta 1:                        4
+2018.08.08 10:36:15  Pres. Pta 1 Cerrar:                    5
+2018.08.08 10:36:15  Ev. Aireacion:                        12
+2018.08.08 10:36:15  Calefaccion 1:                         9
+2018.08.08 10:36:15  Calefaccion 2:                         9
+2018.08.08 10:36:15  Ev. Descarga Cond.:                  133
+2018.08.08 10:36:15  Bomba Agua:                            0
+2018.08.08 10:36:15  Ev. Descarga Vapor D.C.:               0
+2018.08.08 10:36:15  Ev. Inyeccion Vapor D.C.:              0
+2018.08.08 10:36:16  Ev. Agua a Condensador:               13
+2018.08.08 10:36:16   MANTENIMIENTO:
+2018.08.08 10:36:16  Procesos Ejecutados:                   3
+2018.08.08 10:36:16  Horas de Proceso Acumuladas:           1
+2018.08.08 10:36:16  Horas de Encendido:                    7
+2018.08.08 10:37:00       MAZDEN S.R.L.
+2018.08.08 10:37:00             Autoclave por Vapor
+2018.08.08 10:37:00  Equipo N°:   2         N° de Serie:  346
+2018.08.08 10:37:00  LAB. BACK S.A.
+2018.08.08 10:37:00  Fecha: 08/08/2018         Hora: 10:40:48
+2018.08.08 10:37:00  Operador: MARCHA
+2018.08.08 10:37:12       ESTADISTICAS DE FUNCIONAMIENTO
+2018.08.08 10:37:12   ULTIMOS PROCESOS:
+2018.08.08 10:37:12  PROCESO N°:          1
+2018.08.08 10:37:12  Fecha: 06/08/2018
+2018.08.08 10:37:12  Hora: 13:29:06
+2018.08.08 10:37:12  Temperatura Max. de Camara:   122.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga: 122.6 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:    1154.4 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.: 2149.1 mbar
+2018.08.08 10:37:12  PROCESO N°:          2
+2018.08.08 10:37:12  Fecha: 06/08/2018
+2018.08.08 10:37:12  Hora: 14:51:11
+2018.08.08 10:37:12  Temperatura Max. de Camara:   122.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga: 122.3 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:    1154.4 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.: 2149.1 mbar
+2018.08.08 10:37:12  PROCESO N°:          3
+2018.08.08 10:37:12  Fecha: 08/08/2018
+2018.08.08 10:37:12  Hora: 10:17:55
+2018.08.08 10:37:12  Temperatura Max. de Camara:   122.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga: 122.3 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:    1154.4 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.: 1714.8 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:12  Presion Maxima de Gen./Pul.:    0.0 mbar
+2018.08.08 10:37:12  PROCESO N°:          0
+2018.08.08 10:37:12  Fecha: 01/01/1970
+2018.08.08 10:37:12  Hora: 00:00:00
+2018.08.08 10:37:12  Temperatura Max. de Camara:     0.0 °C
+2018.08.08 10:37:12  Temperatura Max. de Descarga:   0.0 °C
+2018.08.08 10:37:12  Presion Maxima de Camara:       0.0 mbar
+2018.08.08 10:37:46       MAZDEN S.R.L.
+2018.08.08 10:37:46             Autoclave por Vapor
+2018.08.08 10:37:46  Equipo N°:   2         N° de Serie:  346
+2018.08.08 10:37:46  LAB. BACK S.A.
+2018.08.08 10:37:46  Fecha: 08/08/2018         Hora: 10:41:34
+2018.08.08 10:37:46  Operador: MARCHA
+2018.08.08 10:37:59                LINEALIZACION
+2018.08.08 10:37:59  Temperatura de Descarga
+2018.08.08 10:37:59  X1:  9250          Y1:  50.0°C
+2018.08.08 10:37:59  X2: 24700          Y2: 134.0°C
+2018.08.08 10:37:59  Temperatura de Camara
+2018.08.08 10:37:59  X1:  9250          Y1:  50.0°C
+2018.08.08 10:37:59  X2: 24700          Y2: 134.0°C
+2018.08.08 10:37:59  Presion de Camara
+2018.08.08 10:37:59  X1:  5590          Y1:    0.0 mbar
+2018.08.08 10:37:59  X2: 27800          Y2: 4000.0 mbar
+2018.08.08 10:37:59  Presion de Generador/Pulmon de Vapor
+2018.08.08 10:37:59  X1: 13970          Y1: 2000.0 mbar
+2018.08.08 10:37:59  X2: 27785          Y2: 4000.0 mbar
+2018.08.08 10:37:59  Presion=F(Temperatura)
+2018.08.08 10:37:59  Coeficiente A:    8.1 mbar
+2018.08.08 10:37:59  Coeficiente B: 1730.6 mbar
+2018.08.08 10:37:59  Coeficiente C:  233.4 mbar
+2018.08.08 10:37:59  Desvio Calculo Presion:   15.0 mbar
+2018.08.08 10:37:59  Delta de Presion:  150.0 mbar
+2018.08.08 10:37:59  Retardo Alarma: 60.0 seg
+2018.08.08 10:37:59  Offsets de Presion en:  mbar
+2018.08.08 10:37:59  T     100°C         121°C        134°C
+2018.08.08 10:37:59         Est.    Prec.     Est.    Prec.
+2018.08.08 10:37:59  Min:  150.0    200.0    150.0    200.0
+2018.08.08 10:37:59  Med:  300.0    400.0    300.0    400.0
+2018.08.08 10:37:59  Max:  450.0    600.0    450.0    600.0
+2018.08.08 10:37:59                  PID VAPOR
+2018.08.08 10:37:59  Ganancia:                       0.5
+2018.08.08 10:37:59  Tiempo Integrador:              6.0 seg
+2018.08.08 10:37:59  Tiempo Derivativo:              1.5 seg
+2018.08.08 10:37:59  Coef. Retardo:                  0.1
+2018.08.08 10:37:59  Accion P:                       0.3
+2018.08.08 10:37:59  Accion D:                       0.0
+2018.08.08 10:37:59  Tiempo Muestreo:                0.1 seg
+2018.08.08 10:37:59  Tiempo Conexion Minimo:         1.2 seg
+2018.08.08 10:37:59  Tiempo Desconexion Minimo:      4.0 seg
+2018.08.08 10:37:59                   PROCESO
+2018.08.08 10:37:59  Tiempo Barrido Vapor:          20.0 seg
+2018.08.08 10:37:59  Tiempo Despresurizacion:        2.0 min
+2018.08.08 10:37:59  Temp. Inicio Desp:            100.0°C
+2018.08.08 10:37:59  Tpo. Min Descarga sin Vacio:   20.0 min
+2018.08.08 10:37:59  Desvio Pres. Vapor Fluente:   500.0 mbar
+2018.08.08 10:37:59  Z para F0:                       10
+2018.08.08 10:37:59  Desvio Temp. F0:                3.0°C
+2018.08.08 10:37:59  Tpo. Max. Repone Agua:          5.0 min
+2018.08.08 10:37:59  Tpo. Max. Repone Agua T.R.:     5.0 min
+2018.08.08 10:37:59  Tpo. Max. Calent:              40.0 min
+2018.08.08 10:37:59  Tpo. Max Vacio:                 5.0 min
+2018.08.08 10:37:59  Tpo. Max Vapor:                15.0 min
+2018.08.08 10:37:59  Desvio Temp. Descarga:          3.0°C
+2018.08.08 10:37:59  Desvio Temp. Cam:               3.0°C
+2018.08.08 10:37:59  Presion Descarga Camara:      100.0 mbar
+2018.08.08 10:37:59  Presion Max. Gen/Pulmon:     3000.0 mbar
+2018.08.08 10:37:59  Presion Max. Camara:         2200.0 mbar
+2018.08.08 10:37:59  Tiempo ON Ev. Vacio:            5.0 seg
+2018.08.08 10:37:59  Tiempo OFF Ev. Vacio:          15.0 seg
+2018.08.08 10:37:59  Desvio Descarga Max:            0.5°C
+2018.08.08 10:37:59  Desvio Descarga Min:            0.2°C
+2018.08.08 10:37:59  Desvio Vapor:                   0.3°C
+2018.08.08 10:37:59  Desvio Presion de Camara:      20.0 mbar
+2018.08.08 10:37:59  Tiempo ON Ev. Desc Cond:        1.0 seg
+2018.08.08 10:37:59  Tiempo OFF Ev. Desc Cond:       3.0 seg
+2018.08.08 10:37:59                   MAQUINA
+2018.08.08 10:37:59  Proceso N°:      4
+2018.08.08 10:37:59  Sistema Respaldo Electrico: Sin UPS
+2018.08.08 10:37:59  Sist. de calefaccion: 2 Grupos
+2018.08.08 10:37:59  Cantidad de Puertas: Una Puerta
+2018.08.08 10:37:59  Apertura y cierre de Puertas: Manual
+2018.08.08 10:37:59  Calefaccion de Aire Disponible: No
+2018.08.08 10:37:59  Rep. de H20 de Reserva Disponible : No
+2018.08.08 10:37:59  Audit Trail Disponible: No
+2018.08.08 10:37:59  Modulo Fallas de Suministros: No
+2018.08.08 10:37:59  Modelo Maquina: FULL
+2018.08.08 10:37:59  Intervalo de Impresion:   30.0 seg
+2018.08.08 10:38:27       MAZDEN S.R.L.
+2018.08.08 10:38:27             Autoclave por Vapor
+2018.08.08 10:38:27  Equipo N°:   2         N° de Serie:  346
+2018.08.08 10:38:27  LAB. BACK S.A.
+2018.08.08 10:38:27  Fecha: 08/08/2018         Hora: 10:42:15
+2018.08.08 10:38:27  Operador: MARCHA
+2018.08.08 10:38:32  Receta Numero:  1
+2018.08.08 10:38:32  Receta Nombre: TEXTIL 121
+2018.08.08 10:38:32  PULSOS VACIO-VAPOR
+2018.08.08 10:38:32  Cantidad de Pulsos:  1
+2018.08.08 10:38:32  Nivel de Vacio: -300.0 mbar
+2018.08.08 10:38:32  Nivel de Vapor:  300.0 mbar
+2018.08.08 10:38:32  ESTERILIZA POR TIEMPO
+2018.08.08 10:38:32  Tiempo de Esterilizacion:   3.5 min
+2018.08.08 10:38:32  Temperatura de Esterilizacion: 122.0 °C
+2018.08.08 10:38:32  Sensor de Referencia: Descarga
+2018.08.08 10:38:32  Temperatura para F0: 122.0 °C
+2018.08.08 10:38:32  SECADO-AIREACION CON VACIO
+2018.08.08 10:38:32  Cantidad de Pulsos:  1
+2018.08.08 10:38:32  Nivel: -600.0 mbar
+2018.08.08 10:38:32  Tiempo:   1.0 min
+2018.08.08 10:38:32  Descarga Rapida: NO
+2018.08.08 10:38:32  Carga: Puerta 1       
+2018.08.08 10:38:32  Descarga: Puerta 1
+
+2018.08.08 11:25:29  Hora
+2018.08.08 11:25:29  TCam
+2018.08.08 11:25:29  TDescarga
+
+2018.08.08 11:26:43  Hora   TCam   TDescarga   PCam
+
+2018.08.08 11:29:54  Hora   TC   TD  PC
+
+2018.08.08 11:33:20  Hora   TC   TD  PC
+
+2018.08.08 11:34:32  Hora   TC   TD  PC
+
+2018.08.08 11:35:08  Hora   TC   TD  PC
+
+2018.08.08 11:35:46  Hora   TC   TD  PC
+2018.08.08 11:35:58  Hora   TC   TD  PC
+
+2018.08.08 11:35:58  Hora   TC   TD  PC
+
+2018.08.08 11:37:22  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:37:42  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.08 11:37:57  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:37:57  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:38:14  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:38:43  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:40:47  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:43:52  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:45:03  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:45:34  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:51:41  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 11:58:13  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.08 11:59:01  Hora       
+2018.08.08 11:59:01  T.Cam.    
+2018.08.08 11:59:01  T.Desc.    
+2018.08.08 11:59:01  P.Cam.
+2018.08.08 11:59:29  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.08 12:01:23  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 08:06:08  3
+2018.08.09 08:06:08  Hora       
+2018.08.09 08:06:08  T.Cam.    
+2018.08.09 08:06:08  T.Desc.    
+2018.08.09 08:06:08  P.Cam.
+2018.08.09 08:06:08  3
+2018.08.09 08:06:08  Hora       
+2018.08.09 08:06:08  T.Cam.    
+2018.08.09 08:06:08  T.Desc.    
+2018.08.09 08:06:08  P.Cam.
+
+2018.08.09 08:06:36  3
+2018.08.09 08:06:36  Hora       
+2018.08.09 08:06:36  T.Cam.    
+2018.08.09 08:06:36  T.Desc.    
+2018.08.09 08:06:36  P.Cam.
+2018.08.09 08:06:36  3
+2018.08.09 08:06:36  Hora       
+2018.08.09 08:06:36  T.Cam.    
+2018.08.09 08:06:36  T.Desc.    
+2018.08.09 08:06:36  P.Cam.
+
+2018.08.09 08:07:05  3
+2018.08.09 08:07:05  Hora       
+2018.08.09 08:07:05  T.Cam.    
+2018.08.09 08:07:05  T.Desc.    
+2018.08.09 08:07:05  P.Cam.
+2018.08.09 08:07:05  3
+2018.08.09 08:07:05  Hora       
+2018.08.09 08:07:05  T.Cam.    
+2018.08.09 08:07:05  T.Desc.    
+2018.08.09 08:07:05  P.Cam.
+
+2018.08.09 08:15:12  3
+2018.08.09 08:15:12  Hora       
+2018.08.09 08:15:12  T.Cam.    
+2018.08.09 08:15:12  T.Desc.    
+2018.08.09 08:15:12  P.Cam.
+2018.08.09 08:15:12  3
+2018.08.09 08:15:12  Hora       
+2018.08.09 08:15:12  T.Cam.    
+2018.08.09 08:15:12  T.Desc.    
+2018.08.09 08:15:12  P.Cam.
+
+2018.08.09 08:17:42  Hora       
+2018.08.09 08:17:42  T.Cam.    
+2018.08.09 08:17:42  T.Desc.    
+2018.08.09 08:17:42  P.Cam.
+2018.08.09 08:17:42  3
+2018.08.09 08:17:42  Hora       
+2018.08.09 08:17:42  T.Cam.    
+2018.08.09 08:17:42  T.Desc.    
+2018.08.09 08:17:42  P.Cam.
+2018.08.09 08:17:46  Hora       
+2018.08.09 08:17:46  T.Cam.    
+2018.08.09 08:17:46  T.Desc.    
+2018.08.09 08:17:46  P.Cam.
+
+2018.08.09 08:35:42  Hora       
+2018.08.09 08:35:42  T.Cam.    
+2018.08.09 08:35:42  T.Desc.    
+2018.08.09 08:35:42  P.Cam.
+
+2018.08.09 08:36:24  Hora       
+2018.08.09 08:36:24  T.Cam.    
+2018.08.09 08:36:24  T.Desc.    
+2018.08.09 08:36:24  P.Cam.
+2018.08.09 08:36:26  Hora       
+2018.08.09 08:36:26  T.Cam.    
+2018.08.09 08:36:26  T.Desc.    
+2018.08.09 08:36:26  P.Cam.
+2018.08.09 08:36:32  Hora       
+2018.08.09 08:36:32  T.Cam.    
+2018.08.09 08:36:32  T.Desc.    
+2018.08.09 08:36:32  P.Cam.
+
+2018.08.09 08:53:11  Hora       
+2018.08.09 08:53:11  T.Cam.    
+2018.08.09 08:53:11  T.Desc.    
+2018.08.09 08:53:11  P.Cam.
+
+2018.08.09 08:53:24  Hora       
+2018.08.09 08:53:24  T.Cam.    
+2018.08.09 08:53:24  T.Desc.    
+2018.08.09 08:53:24  P.Cam.
+2018.08.09 08:53:25  Hora       
+2018.08.09 08:53:25  T.Cam.    
+2018.08.09 08:53:25  T.Desc.    
+2018.08.09 08:53:25  P.Cam.
+
+2018.08.09 08:55:44  Hora       
+2018.08.09 08:55:44  T.Cam.    
+2018.08.09 08:55:44  T.Desc.    
+2018.08.09 08:55:44  P.Cam.
+
+2018.08.09 09:05:26  Hora       
+2018.08.09 09:05:26  T.Cam.    
+2018.08.09 09:05:26  T.Desc.    
+2018.08.09 09:05:26  P.Cam.
+2018.08.09 09:05:44  Hora       
+2018.08.09 09:05:44  T.Cam.    
+2018.08.09 09:05:44  T.Desc.    
+2018.08.09 09:05:44  P.Cam.
+
+2018.08.09 09:05:58  Hora       
+2018.08.09 09:05:58  T.Cam.    
+2018.08.09 09:05:58  T.Desc.    
+2018.08.09 09:05:58  P.Cam.
+2018.08.09 09:06:04  Hora       
+2018.08.09 09:06:04  T.Cam.    
+2018.08.09 09:06:04  T.Desc.    
+2018.08.09 09:06:04  P.Cam.
+2018.08.09 09:06:13  Hora       
+2018.08.09 09:06:13  T.Cam.    
+2018.08.09 09:06:13  T.Desc.    
+2018.08.09 09:06:13  P.Cam.
+2018.08.09 09:06:18  Hora       
+2018.08.09 09:06:18  T.Cam.    
+2018.08.09 09:06:18  T.Desc.    
+2018.08.09 09:06:18  P.Cam.
+
+2018.08.09 09:09:38  Hora       
+2018.08.09 09:09:38  T.Cam.    
+2018.08.09 09:09:38  T.Desc.    
+2018.08.09 09:09:38  P.Cam.
+2018.08.09 09:09:48  Hora       
+2018.08.09 09:09:48  T.Cam.    
+2018.08.09 09:09:48  T.Desc.    
+2018.08.09 09:09:48  P.Cam.
+
+2018.08.09 09:13:29  Hora       
+2018.08.09 09:13:29  T.Cam.    
+2018.08.09 09:13:29  T.Desc.    
+2018.08.09 09:13:29  P.Cam.
+2018.08.09 09:13:35  Hora       
+2018.08.09 09:13:35  T.Cam.    
+2018.08.09 09:13:35  T.Desc.    
+2018.08.09 09:13:35  P.Cam.
+2018.08.09 09:13:35  Hora       
+2018.08.09 09:13:35  T.Cam.    
+2018.08.09 09:13:35  T.Desc.    
+2018.08.09 09:13:35  P.Cam.
+2018.08.09 09:13:36  Hora       
+2018.08.09 09:13:36  T.Cam.    
+2018.08.09 09:13:36  T.Desc.    
+2018.08.09 09:13:36  P.Cam.
+2018.08.09 09:13:36  Hora       
+2018.08.09 09:13:36  T.Cam.    
+2018.08.09 09:13:36  T.Desc.    
+2018.08.09 09:13:36  P.Cam.
+2018.08.09 09:13:36  Hora       
+2018.08.09 09:13:36  T.Cam.    
+2018.08.09 09:13:36  T.Desc.    
+2018.08.09 09:13:36  P.Cam.
+2018.08.09 09:13:36  Hora       
+2018.08.09 09:13:36  T.Cam.    
+2018.08.09 09:13:36  T.Desc.    
+2018.08.09 09:13:36  P.Cam.
+
+2018.08.09 09:15:25  Hora       
+2018.08.09 09:15:25  T.Cam.    
+2018.08.09 09:15:25  T.Desc.    
+2018.08.09 09:15:25  P.Cam.
+2018.08.09 09:15:26  Hora       
+2018.08.09 09:15:26  T.Cam.    
+2018.08.09 09:15:26  T.Desc.    
+2018.08.09 09:15:26  P.Cam.
+2018.08.09 09:15:28  Hora       
+2018.08.09 09:15:28  T.Cam.    
+2018.08.09 09:15:28  T.Desc.    
+2018.08.09 09:15:28  P.Cam.
+2018.08.09 09:15:35  Hora       
+2018.08.09 09:15:35  T.Cam.    
+2018.08.09 09:15:35  T.Desc.    
+2018.08.09 09:15:35  P.Cam.
+
+2018.08.09 09:17:44  Hora       
+2018.08.09 09:17:44  T.Cam.    
+2018.08.09 09:17:44  T.Desc.    
+2018.08.09 09:17:44  P.Cam.
+2018.08.09 09:17:45  Hora       
+2018.08.09 09:17:45  T.Cam.    
+2018.08.09 09:17:45  T.Desc.    
+2018.08.09 09:17:45  P.Cam.
+2018.08.09 09:17:46  Hora       
+2018.08.09 09:17:46  T.Cam.    
+2018.08.09 09:17:46  T.Desc.    
+2018.08.09 09:17:46  P.Cam.
+2018.08.09 09:17:46  Hora       
+2018.08.09 09:17:46  T.Cam.    
+2018.08.09 09:17:46  T.Desc.    
+2018.08.09 09:17:46  P.Cam.
+2018.08.09 09:17:47  Hora       
+2018.08.09 09:17:47  T.Cam.    
+2018.08.09 09:17:47  T.Desc.    
+2018.08.09 09:17:47  P.Cam.
+2018.08.09 09:17:47  Hora       
+2018.08.09 09:17:47  T.Cam.    
+2018.08.09 09:17:47  T.Desc.    
+2018.08.09 09:17:47  P.Cam.
+2018.08.09 09:17:48  Hora       
+2018.08.09 09:17:48  T.Cam.    
+2018.08.09 09:17:48  T.Desc.    
+2018.08.09 09:17:48  P.Cam.
+2018.08.09 09:17:52  Hora       
+2018.08.09 09:17:52  T.Cam.    
+2018.08.09 09:17:52  T.Desc.    
+2018.08.09 09:17:52  P.Cam.
+2018.08.09 09:17:52  Hora       
+2018.08.09 09:17:52  T.Cam.    
+2018.08.09 09:17:52  T.Desc.    
+2018.08.09 09:17:52  P.Cam.
+2018.08.09 09:17:53  Hora       
+2018.08.09 09:17:53  T.Cam.    
+2018.08.09 09:17:53  T.Desc.    
+2018.08.09 09:17:53  P.Cam.
+2018.08.09 09:17:54  Hora       
+2018.08.09 09:17:54  T.Cam.    
+2018.08.09 09:17:54  T.Desc.    
+2018.08.09 09:17:54  P.Cam.
+2018.08.09 09:17:54  Hora       
+2018.08.09 09:17:54  T.Cam.    
+2018.08.09 09:17:54  T.Desc.    
+2018.08.09 09:17:54  P.Cam.
+2018.08.09 09:17:54  Hora       
+2018.08.09 09:17:54  T.Cam.    
+2018.08.09 09:17:54  T.Desc.    
+2018.08.09 09:17:54  P.Cam.
+2018.08.09 09:17:54  Hora       
+2018.08.09 09:17:54  T.Cam.    
+2018.08.09 09:17:54  T.Desc.    
+2018.08.09 09:17:54  P.Cam.
+
+2018.08.09 09:23:58  Hora       
+2018.08.09 09:23:58  T.Cam.    
+2018.08.09 09:23:58  T.Desc.    
+2018.08.09 09:23:58  P.Cam.
+2018.08.09 09:23:59  Hora       
+2018.08.09 09:23:59  T.Cam.    
+2018.08.09 09:23:59  T.Desc.    
+2018.08.09 09:23:59  P.Cam.
+2018.08.09 09:23:59  Hora       
+2018.08.09 09:23:59  T.Cam.    
+2018.08.09 09:23:59  T.Desc.    
+2018.08.09 09:23:59  P.Cam.
+
+2018.08.09 09:32:31  Hora       
+2018.08.09 09:32:31  T.Cam.    
+2018.08.09 09:32:31  T.Desc.    
+2018.08.09 09:32:31  P.Cam.
+
+2018.08.09 09:33:15  Hora       
+2018.08.09 09:33:15  T.Cam.    
+2018.08.09 09:33:15  T.Desc.    
+2018.08.09 09:33:15  P.Cam.
+2018.08.09 09:33:15  Hora       
+2018.08.09 09:33:15  T.Cam.    
+2018.08.09 09:33:15  T.Desc.    
+2018.08.09 09:33:15  P.Cam.
+2018.08.09 09:33:16  Hora       
+2018.08.09 09:33:16  T.Cam.    
+2018.08.09 09:33:16  T.Desc.    
+2018.08.09 09:33:16  P.Cam.
+2018.08.09 09:33:18  Hora       
+2018.08.09 09:33:18  T.Cam.    
+2018.08.09 09:33:18  T.Desc.    
+2018.08.09 09:33:18  P.Cam.
+2018.08.09 09:33:30  Hora       
+2018.08.09 09:33:30  T.Cam.    
+2018.08.09 09:33:30  T.Desc.    
+2018.08.09 09:33:30  P.Cam.
+2018.08.09 09:33:56  Hora       
+2018.08.09 09:33:56  T.Cam.    
+2018.08.09 09:33:56  T.Desc.    
+2018.08.09 09:33:56  P.Cam.
+
+2018.08.09 09:34:56  Hora       
+2018.08.09 09:34:56  T.Cam.    
+2018.08.09 09:34:56  T.Desc.    
+2018.08.09 09:34:56  P.Cam.
+
+2018.08.09 09:35:59  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:36:41  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:41  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:43  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:43  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:51  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:53  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:36:59  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:37:00  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:38:06  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:06  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:10  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:11  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:11  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:12  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:12  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:12  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:12  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:12  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:38:47  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:47  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:48  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:52  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:52  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:52  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:53  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:53  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:57  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:57  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:57  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:38:57  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:40:00  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:00  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:00  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:04  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:04  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:05  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:05  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 09:40:05  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:44:04  Hora    
+2018.08.09 09:44:04     T.Cam.   
+2018.08.09 09:44:04   T.Desc.   
+2018.08.09 09:44:04   P.Cam.
+
+2018.08.09 09:47:16  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 09:51:55  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:08:35  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:23:07  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:25:11  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:27:19  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 10:27:20  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 10:27:20  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 10:27:30  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:27:59  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 10:28:08  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:31:07  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 10:40:10  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 10:40:27  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:01:44  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:03:03  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:03:42  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:04:01  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:04:37  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:11:06  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:12:25  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:15:13  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:23:52  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 11:24:08  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:27:01  Hora       T.Cam.    T.Desc.    P.Cam.
+
+2018.08.09 11:39:18  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 11:39:28  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:41:07  Hora       T.Cam.    T.Desc.    P.Cam.
+2018.08.09 11:41:26  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:44:42  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:45:29  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:45:58  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:53:44  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.
+
+2018.08.09 11:54:09  2,Hora       ,T.Cam.    ,T.Desc.    ,P.Cam.

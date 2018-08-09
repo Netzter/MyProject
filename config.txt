@@ -1,0 +1,4 @@
+-------------------Configuration File-------------------
+ 
+Direccion IP: 192:168:0:53
+Puerto: 2000
